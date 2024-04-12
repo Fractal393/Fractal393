@@ -11,10 +11,10 @@ Passionate about technology and a fervent advocate for cybersecurity, I'm a full
 <table>
 <tr>
 <td width="45%">
-<a href="http://www.github.com/HeyAnirudh"><img src="https://github-readme-stats.vercel.app/api?username=fractal393&show_icons=true&hide=&count_private=true&title_color=FFD15B&text_color=ffffff&icon_color=FFD15B&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fractal393's GitHub stats" /></a> 
+<a href="http://www.github.com/fractal393"><img src="https://github-readme-stats.vercel.app/api?username=fractal393&show_icons=true&hide=&count_private=true&title_color=FFD15B&text_color=ffffff&icon_color=FFD15B&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fractal393's GitHub stats" /></a> 
 </td>
 <td width="45%">
- <a href="http://www.github.com/HeyAnirudh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fractal393&stroke=ffffff&background=1c1917&ring=FFD15B&fire=FFD15B&currStreakNum=ffffff&currStreakLabel=FFD15B&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ <a href="http://www.github.com/fractal393"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fractal393&stroke=ffffff&background=1c1917&ring=FFD15B&fire=FFD15B&currStreakNum=ffffff&currStreakLabel=FFD15B&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </table>
 
 ### Technologies
